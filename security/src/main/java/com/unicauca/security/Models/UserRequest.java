@@ -1,4 +1,4 @@
-package com.unicauca.security.objRequest;
+package com.unicauca.security.Models;
 
 
 import lombok.AllArgsConstructor;
